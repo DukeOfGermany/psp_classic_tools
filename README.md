@@ -1,6 +1,6 @@
 # PSP Classic Tools
 
-Tools to improve the user experience of Jasc PaintShop Pro, versions 7 - 9.
+Tools to improve the user experience of "Jasc Paint Shop Pro", versions 7 - 9.
 
 ## Current tools
 
@@ -21,4 +21,4 @@ programs.
   - The script will be automatically executed the next time you log in
 
 ## Notes on Jasc PaintShop Pro
-- The versions 7 to 8 seem to be considered abandonware. You can find the corresponding ISO images on the internet archive.
+- The versions 7 to 9 seem to be considered abandonware. You can find the corresponding ISO images on the internet archive.
