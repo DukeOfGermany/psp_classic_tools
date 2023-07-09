@@ -20,5 +20,5 @@ programs.
   - Create a link to the corresponding `*.ahk` file
   - The script will be automatically executed the next time you log in
 
-## Notes on Jasc PaintShop Pro
+## Notes on Jasc Paint Shop Pro
 - The versions 7 to 9 seem to be considered abandonware. You can find the corresponding ISO images on the internet archive.
